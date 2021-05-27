@@ -1,0 +1,33 @@
+Module 9: What is a Web Developer?
+
+
+GeoCities (started in 1994) - was a web hosting service that allowed users to create and publish websites for free and to browse user-created websites by their theme or interest. 
+
+
+Web Developer - must have a basic understanding of HTML,CSS, JavaScript.
+
+
+Full Stack Web Developer - is a person who can develop both client and server software.
+
+
+Responsive Web Design - is about using HTML and CSS to automatically resize a website.
+* making website look good on all devices
+
+
+JavaScript - programming language for the web. Can update and change both HTML, CSS. I        it can also calculate, manipulate and validate data
+
+
+JS Strings - Store Text. Strings are written inside quotes.
+
+
+JS Arrays - are used to store multiple values in a single variable. 
+                ex. var cars = [ “Saab”, “Volvo”, “BMW”] ;
+
+
+JS Functions - is a block of code designed to perform a particular task. Executed when “something” invokes it (call it).
+
+
+ES5 - shortcut for ECMAScript 5 or also known as JavaScript 5.
+
+
+HTML DOM (Document Object Model) - a model is constructed as a tree of objects.
